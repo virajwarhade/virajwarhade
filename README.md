@@ -9,6 +9,6 @@ I'm Viraj Warhade, and I love programming, data science, and books! I'm always o
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virajwarhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Marmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=virajwarhade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=virajwarhade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
