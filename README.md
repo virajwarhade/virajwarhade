@@ -9,12 +9,12 @@ I'm Viraj Warhade, and I love programming, data science, and books! I'm always o
 
 ### GitHub Stats
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajwarhade&theme=github_dark)
+{![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajwarhade&theme=github_dark)
 
 
 
 
-[![GitHub Stats](https://github-readme-profile-theta.vercel.app/api?username=virajwarhade)](https://github.com/FajarKim/github-readme-profile)
+[![GitHub Stats](https://github-readme-profile-theta.vercel.app/api?username=virajwarhade)](https://github.com/FajarKim/github-readme-profile)}
 
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virajwarhade&theme=2077&exclude={exclude})
