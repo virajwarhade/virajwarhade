@@ -9,7 +9,7 @@ I'm Viraj Warhade, and I love programming, data science, and books! I'm always o
 
 ### GitHub Stats
 
-[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajwarhade&theme=github_dark)
+(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virajwarhade&theme=github_dark)
 
 
 
