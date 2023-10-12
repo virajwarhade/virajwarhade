@@ -1,11 +1,12 @@
 ### Hey there! 👋
 
-I'm Viraj Warhade, and I love programming, data science, and books! I'm always on the lookout for opportunities to learn and grow, and I enjoy sharing my knowledge with others through my blog.
+I'm Viraj Warhade, and I love programming, I'm always on the lookout for opportunities to learn and grow, and I enjoy sharing my knowledge with others.
 
 - 🌱 I'm addicted to learning and growing every day
-- :earth_africa: Check out my [Daily Tips](https://mathdatasimplified.com/) blog for my latest thoughts on data science and programming
-- :office: Connect with me on [LinkedIn](https://www.linkedin.com/in/)
-- :speaker: Listen to me on the [Artists of Data Science podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
+
+- :office: Connect with me on [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/viraj-warhade-8b2512245/))
+
+
 
 ### GitHub Stats
 
