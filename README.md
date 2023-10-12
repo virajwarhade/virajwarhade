@@ -21,4 +21,4 @@ I'm Viraj Warhade, and I love programming, I'm always on the lookout for opportu
 [![GitHub Stats](https://github-readme-profile-theta.vercel.app/api?username=virajwarhade)](https://github.com/FajarKim/github-readme-profile)
 
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virajwarhade&theme=2077&exclude={exclude})
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virajwarhade&theme=2077)
